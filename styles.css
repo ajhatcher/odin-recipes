@@ -1,0 +1,55 @@
+body {
+    background-color:bisque;
+}
+
+h1{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+ul{
+    /* list-style-type:none; */
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    text-align: center;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    font-weight: 600;
+    top: 40%;
+}
+
+body#WhiteColor {
+    background-color: white;
+}
+
+div p{
+    position: absolute;
+    top: 50%;
+    left: 40% ;
+}
+
+p.blueColor{
+    color: blue;
+}
+
+button#buttonOne{
+    position:absolute;
+    top: 9%;
+    left: 46%;
+}
+
+button#buttonTwo{
+    position:absolute;
+    top: 13%;
+    left:46%;
+}
+
+button#buttonThree{
+    position:absolute;
+    top: 17%;
+    left:46%;
+}
